@@ -1,0 +1,8 @@
+		html,body,div,h1,h6,section,img{
+            margin: 0;       /* Loại bỏ margin mặc định */
+            padding: 0;      /* Loại bỏ padding mặc định */
+            box-sizing: border-box; /* Đảm bảo tính toán kích thước phần tử chính xác */
+            height: 100%;    /* Đảm bảo nội dung có thể bao phủ toàn bộ chiều cao của trang */
+			width: 100%;
+			border:none;			
+        }
